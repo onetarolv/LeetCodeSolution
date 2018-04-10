@@ -1,4 +1,4 @@
-package medium;
+package others;
 
 /**
  * Created by engry on 2018/4/8.
